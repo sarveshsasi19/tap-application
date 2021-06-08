@@ -1,1 +1,12 @@
-Licesne
+License 
+:tap-application/ (main✗) $ git add README.md LICENSE                                                                                                  [12:34:54]
+:tap-application/ (main✗) $ git add *                                                                                                                  [12:35:03]
+:tap-application/ (main✗) $ git status
+
+
+
+
+
+12:37
+:tap-application/ (main✗) $ git commit -m "Modified ReadMe and added LICENSE"
+:tap-application/ (main) $ git push
